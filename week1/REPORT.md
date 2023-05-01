@@ -60,4 +60,4 @@
 
 ### Conclusion
 
-    The contract
+    The contract was deployed by Jonathan Meyer in the Goerli Test network. We all were able to interact with the contract using Remix and the HelloWorld.sol. We all had the opportunity to play with the contract, specifically the setText and tranferOwner functions. The contract was also verified by Jonathan Meyer, which allowed us to interact with the contract directly in Etherscan. Overall, we were able to collaborate effectively as a group and learn about contract deployment and verificaton. 
