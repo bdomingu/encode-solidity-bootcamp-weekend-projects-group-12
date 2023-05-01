@@ -4,7 +4,7 @@
 
 - Jonathan Meyer | mwjeth#7039
 - Andy
-- Betty
+- Betty | BeatrizD#8939
 - Anuja
 - Pedro
 - BK | BK#7471
