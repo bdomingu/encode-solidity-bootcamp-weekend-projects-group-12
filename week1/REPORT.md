@@ -3,7 +3,7 @@
 ### _Contributors_
 
 - Jonathan Meyer | mwjeth#7039
-- Andy
+- Andy | 0xAndy#3968
 - Beatriz Dominguez | BeatrizD#8939
 - Anuja | anud#1704
 - Pedro
