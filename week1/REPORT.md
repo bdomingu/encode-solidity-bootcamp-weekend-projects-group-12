@@ -2,7 +2,7 @@
 
 ### _Contributors_
 
-- Jonathan
+- Jonathan Meyer | mwjeth#7039
 - Andy
 - Betty
 - Anuja
