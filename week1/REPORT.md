@@ -6,7 +6,7 @@
 - Andy | 0xAndy#3968
 - Beatriz Dominguez | BeatrizD#8939
 - Anuja | anud#1704
-- Pedro
+- Pedro | pdroooooooo#5705
 - BK | BK#7471
 - Neeraj | innerpeace#5319
 
