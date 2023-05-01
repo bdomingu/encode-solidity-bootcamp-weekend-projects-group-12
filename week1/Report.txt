@@ -1,1 +1,5 @@
+tx hash : https://goerli.etherscan.io/tx/0x005205a3c902e90effd49f5fb1ed5a76c4e51d62c8db980314e732e9fe301ba5
+	function setText failed. " Caller is not the owner". I did not have ownership, so I could not change the text. 
 
+tx hash : https://goerli.etherscan.io/tx/0xf0bb4d0d4f1c9a77d9d85ea117e3b732c055be11e140a7aab578c3d143a28785
+	funtion change ownership failed. Fail with error " Caller it not the owner." Since I did not have ownership, I could not transfer ownership.  
