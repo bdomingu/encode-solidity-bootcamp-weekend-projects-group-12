@@ -44,7 +44,7 @@
   - > ![voteSuccessScript](./images/voteTx2Succesful.png)
   - > ![voteSuccessScriptEtherscan](./images/voteTx2SuccesfulEtherscan.png)
 - **unsuccesful `delegateVote` from `0x44C114C8a23628789FC5a133e7777C48e2c783c5` to `0xe4d0C7536c8DbF5ab9D91259Df0549293eC14c34` because I had already voted with my address.**
-  - > ![winningProposal](./images/unsuccesfulDelegateVote.png)
+  - > ![unsuccesfulDelegateVote](./images/unsuccessfulDelegateVote.png)
 - **winning proposal script**
   - > ![winningProposal](./images/winningProposalScriptQuery.png)
   - > ![winningProposal](./images/winningProposal.png) 
