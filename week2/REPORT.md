@@ -42,6 +42,7 @@
   - > ![voteSuccessScript](./images/voteTx2Succesful.png)
   - > ![voteSuccessScriptEtherscan](./images/voteTx2SuccesfulEtherscan.png)
 - **winning proposal script**
-  - > ![winningProposals](./images/winningProposalScriptQuery.png)
-  - (./images/winningProposal.png)
+  - > ![winningProposal](./images/winningProposalScriptQuery.png)
+  - > ![winningProposal](./images/winningProposal.png) 
+
 
