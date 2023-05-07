@@ -39,7 +39,6 @@
   - > ![voteSuccessScriptEtherscan](./images/voteTxSuccessfulEtherscan.png)
 - **succesful `vote` from `0x44C114C8a23628789FC5a133e7777C48e2c783c5`**
    > [hash] 
-   https://sepolia.etherscan.io/tx/0x48e4d7c4c81d226a9d111de6a7ee48f8814760eb2c0eed060295c74a3adad2a4
   - > ![voteSuccessScript]
   - > ![voteSuccessScriptEtherscan] 
 - **winning proposal script**
