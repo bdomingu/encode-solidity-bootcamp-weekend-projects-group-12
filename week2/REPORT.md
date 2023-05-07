@@ -39,8 +39,8 @@
   - > ![voteSuccessScriptEtherscan](./images/voteTxSuccessfulEtherscan.png)
 - **succesful `vote` from `0x44C114C8a23628789FC5a133e7777C48e2c783c5`**
    > [hash] 
-  - > ![voteSuccessScript]
-  - > ![voteSuccessScriptEtherscan] 
+  - > ![voteSuccessScript](./images/voteTx2Succesful.png)
+  - > ![voteSuccessScriptEtherscan](./images/voteTx2SuccesfulEtherscan.png)
 - **winning proposal script**
   - > ![winningProposals](./images/winningProposalScriptQuery.png)
 <img width="1157" alt="Screen Shot 2023-05-07 at 4 31 02 PM" src="https://user-images.githubusercontent.com/92413990/236705611-5e3b4524-0fc6-4ef1-90a8-b5a40b2a1e33.png">
