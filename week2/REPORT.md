@@ -44,6 +44,7 @@
   - > ![voteSuccessScript](./images/voteTx2Succesful.png)
   - > ![voteSuccessScriptEtherscan](./images/voteTx2SuccesfulEtherscan.png)
 - **succesful `delegateVote` to `0x44C114C8a23628789FC5a133e7777C48e2c783c5`**
+   > [hash](https://sepolia.etherscan.io/tx/0xd7495596d090e7538c0829371b2cb20dfc6a2ee6a058ae3150ee669ae46302ae)`0xd7495596d090e7538c0829371b2cb20dfc6a2ee6a058ae3150ee669ae46302ae`
   - > ![successfulDelegate](./images/successfulDelegate.png)
 - **unsuccesful `delegateVote` from `0x44C114C8a23628789FC5a133e7777C48e2c783c5` to `0xe4d0C7536c8DbF5ab9D91259Df0549293eC14c34` because I had already voted with my address.**
   - > ![unsuccesfulDelegateVote](./images/unsuccessfulDelegateVote.png)
