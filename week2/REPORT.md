@@ -32,7 +32,7 @@
   - > Etherscan img ![giveRightToVoteEtherscan](./images/giveRightToVote-Successful-BettyAddress-Etherscan.png)
 - **unsuccessful `giveRightToVote` from `0x44C114C8a23628789FC5a133e7777C48e2c783c5` to `0xe4d0C7536c8DbF5ab9D91259Df0549293eC14c34` because I am not the chair person and cannot grant right to vote.**
   - > ![noGiveRightToVoteError](./images/unsuccesfulRightToVote.png)
-  - > ![etherscan](./images/unsuccessfulRightToVoteEtherscan.png)
+  - > ![etherscan](./images/unsuccesfulRightToVoteEtherscan.png)
 - **unsuccessful `vote` from `0xF6d38b257b4DD900BABe5B0f48A877943C0f1312` because of no permission to vote**
   - > ![noRightToVoteError](./images/NoRightToVoteError.png)
   - > ![etherscan](./images/NoRightToVoteErrorEtherscan.png)
