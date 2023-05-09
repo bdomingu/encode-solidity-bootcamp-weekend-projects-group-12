@@ -12,7 +12,7 @@
 
 ---
 
-### Ballot Contract Report [Github Repo](https://github.com/bdomingu/encode-solidity-bootcamp-weekend-projects-group-12/blob/main/week2/REPORT.md)
+### Ballot Contract Report [Github Repo](https://github.com/bdomingu/Encode-Week-Two-Project)
 
 #### The ballot contract is deployed on Sepolia Testnet and the address is: `0x66eb0E81E85952816f4e629a929ce3D5f2B36fDB`
 
