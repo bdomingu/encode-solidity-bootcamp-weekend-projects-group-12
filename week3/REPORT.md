@@ -27,7 +27,7 @@
 
 ---
 - **The MyERC20Votes contract was deployed first. You can find the transaction below.**
-  > [hash](https://sepolia.etherscan.io/tx/0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7)`0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7`
+  > [`0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7`](https://sepolia.etherscan.io/tx/0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7)
 - **The transaction below was reverted since Neeraj was not assigned as the minter role and therefore he was unable to mint tokens for his account.**
   > [hash](https://sepolia.etherscan.io/tx/0x4da93899c8a6febb77b9f6b31e6328c905f414528c4bb9e5b3c05bc911538d3d)`0x4da93899c8a6febb77b9f6b31e6328c905f414528c4bb9e5b3c05bc911538d3d`
   - > Etherscan img ![revertMintEtherscan](./images/revertedMint.png)
