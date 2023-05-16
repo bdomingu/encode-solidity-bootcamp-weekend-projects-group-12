@@ -46,3 +46,11 @@
   > [`0x52ba2e021907ac200e3a6c383623fc86792b0780313f4d85532679028efc03ca`](https://sepolia.etherscan.io/tx/0x52ba2e021907ac200e3a6c383623fc86792b0780313f4d85532679028efc03ca)
 - **After the minting and delegating, Neeraj deployed the Tokenized Ballot contract. You can find the deployment transaction below.**
   > [`0xd1add9a228fa2d82f590a0dc8cd4834c07b2de0ae84755e34168bff993e6484c`](https://sepolia.etherscan.io/tx/0xd1add9a228fa2d82f590a0dc8cd4834c07b2de0ae84755e34168bff993e6484c)
+- **Once the Tokenized Ballot contract was deployed, we were able to cast our votes. Some votes were done using the scripts written by Neeraj and others were done directly on Etherscan. You can find the voting transactions below.**
+  > [`0x3502b6fd90d0955a3cbca0bd8119ecb37070c9c07910b4f0f52e2e2e9a57112b`](https://sepolia.etherscan.io/tx/0x3502b6fd90d0955a3cbca0bd8119ecb37070c9c07910b4f0f52e2e2e9a57112b) 
+  > [`0x567614c920c6a0c0fc2e2e665aff4192b6b906900792072d9ac5292ac9a8a0f4`](https://sepolia.etherscan.io/tx/0x567614c920c6a0c0fc2e2e665aff4192b6b906900792072d9ac5292ac9a8a0f4) 
+  > [`0x9f4501c942c1826a2e7ebe305b2963bc315e1800083f1ed5c62e834f37e533fd`](https://sepolia.etherscan.io/tx/0x9f4501c942c1826a2e7ebe305b2963bc315e1800083f1ed5c62e834f37e533fd) 
+  > [`0x9ec9eeaab264dff0c5e943d16f6ff666718c903f620648d6a99b87dde2ed0369`](https://sepolia.etherscan.io/tx/0x9ec9eeaab264dff0c5e943d16f6ff666718c903f620648d6a99b87dde2ed0369)
+  > [`0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc`](https://sepolia.etherscan.io/tx/0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc)
+  > [`0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa`](https://sepolia.etherscan.io/tx/0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa) 
+   
