@@ -54,6 +54,6 @@
   > [`0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc`](https://sepolia.etherscan.io/tx/0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc)
   > [`0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa`](https://sepolia.etherscan.io/tx/0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa)
 - **I don't think the final results should cause a shock. Starbucks is definitely the best! But the person writing this report is biased. You can find our results below.**
-    - > Winning Results img ![results](./images/finalResults.png)
+    - > Winning Results ![results](./images/finalResults.png)
   > *Note: One of the votes which was done on Etherscan was done with Wei instead of Ether, which is why you will notice the odd  value in the votes for McDonalds. In the voting script, the token value was parsed to 18 decimals (Ether). We learned that when voting on Etherscan, you will need to add proper zeros when casting your vote. I'd also like to note that McDonalds still didn't have a chance on Starbucks.*
    
