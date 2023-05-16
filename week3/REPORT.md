@@ -14,8 +14,8 @@
 
 ### TokenizedBallot Contract Report [Github Repo](https://github.com/bdomingu/Encode-Week-Three-Project)
 
-#### The MyERC20Votes contract is deployed on Sepolia Testnet and the address is: `0x1734E67eE6c21f2Ff59CC9F9B209f798f2448862`
-#### The Tokenized Ballot contract is deployed on Sepolia Testnet and the address is: `0xBEd8efAbfB986EF7b791CDE1694FC1EB56db0DFc`
+#### The MyERC20Votes contract is deployed on Sepolia Testnet and the address is: [`0x1734E67eE6c21f2Ff59CC9F9B209f798f2448862`](https://sepolia.etherscan.io/address/0x1734e67ee6c21f2ff59cc9f9b209f798f2448862)
+#### The Tokenized Ballot contract is deployed on Sepolia Testnet and the address is: [`0xBEd8efAbfB986EF7b791CDE1694FC1EB56db0DFc`](https://sepolia.etherscan.io/address/0xbed8efabfb986ef7b791cde1694fc1eb56db0dfc)
 
 #### Vote for your favorite food chain:
 
