@@ -28,7 +28,7 @@
 ---
 - **The MyERC20Votes contract was deployed first. You can find the transaction below.**
   > [`0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7`](https://sepolia.etherscan.io/tx/0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7)
-- **BK deployed the MyERC20Votes contract and was assigned the minter role. He minted 100 Tokens to all of our team members' accounts and to his account. You can find all the minting transactions below.
+- **BK deployed the MyERC20Votes contract and was assigned the minter role. He minted 100 Tokens to all of our team members' accounts and to his account. You can find all the minting transactions below.**
   > [`0x2f77ea463b7f6da99ba66ab21c16cc704c9dc8b8a75bbc453194ddb5aa5a7eec`](https://sepolia.etherscan.io/tx/0x2f77ea463b7f6da99ba66ab21c16cc704c9dc8b8a75bbc453194ddb5aa5a7eec)
   > [`0xef5c7e28316105ce8de6d0bbc1d99b3603df8de6e88851f7670c0102a2dcba9d`](https://sepolia.etherscan.io/tx/0xef5c7e28316105ce8de6d0bbc1d99b3603df8de6e88851f7670c0102a2dcba9d)
   > [`0x22dded3c62d274955d3801283446dfa6ae97563386be10b9afb396bbf7cdaa32`](https://sepolia.etherscan.io/tx/0x22dded3c62d274955d3801283446dfa6ae97563386be10b9afb396bbf7cdaa32)
@@ -52,5 +52,6 @@
   > [`0x9f4501c942c1826a2e7ebe305b2963bc315e1800083f1ed5c62e834f37e533fd`](https://sepolia.etherscan.io/tx/0x9f4501c942c1826a2e7ebe305b2963bc315e1800083f1ed5c62e834f37e533fd) 
   > [`0x9ec9eeaab264dff0c5e943d16f6ff666718c903f620648d6a99b87dde2ed0369`](https://sepolia.etherscan.io/tx/0x9ec9eeaab264dff0c5e943d16f6ff666718c903f620648d6a99b87dde2ed0369)
   > [`0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc`](https://sepolia.etherscan.io/tx/0x5d3d278eb5417502cb94ffc81da503c6643502dc0425fe16804ecadeb05aa8bc)
-  > [`0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa`](https://sepolia.etherscan.io/tx/0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa) 
+  > [`0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa`](https://sepolia.etherscan.io/tx/0x824d1dc00b5c554e3d0981584a6f06a0a8b300e8ee1ef286b92982b4d93f76fa)
+- **I don't think the final results should cause a shock. Starbucks is definitely the best! But the person writing this report is biased. You can find our results below. 
    
