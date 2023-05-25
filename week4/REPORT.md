@@ -27,6 +27,6 @@
 - Proposal 4 - Dunkin
 
 ---
-- **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power. **
+- **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power.**
  - > ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
 
