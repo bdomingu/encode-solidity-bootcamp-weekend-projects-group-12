@@ -36,3 +36,10 @@
 **After the tokens have been succesfully minted, they will receive a succesful transaction hash and message.**
   - > ![02-dApp](./images/03-AfterMintingTokenBalance.png)
 
+**Now the user can delegate those tokens to their account and get voting power.**
+  - > ![02-dApp](./images/04-DelegatingTokens.png)
+  
+**After the tokens have been successfully delegated, they will receive a succesful transaction and message. Now the user has voting power!**
+  - > ![02-dApp](./images/05-DelegateSucceful.png)
+
+
