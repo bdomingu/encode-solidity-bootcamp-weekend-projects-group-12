@@ -27,7 +27,6 @@
 - Proposal 4 - Dunkin
 
 ---
-- **The MyERC20Votes contract was deployed first. You can find the transaction below.**
-  > [`0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7`](https://sepolia.etherscan.io/tx/0xaf712b90b0bb4b5b61dbceebfefad5c6dc3a9ebe714fc4c46cfaf74a6eed94a7)
-- **BK deployed the MyERC20Votes contract and was assigned the minter role. He minted 100 Tokens to all of our team members' accounts and to his account. You can find all the minting transactions below.**
-  > [`0x2f77ea463b7f6da99ba66ab21c16cc704c9dc8b8a75bbc453194ddb5aa5a7eec`]
+- **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power. **
+ - > ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
+
