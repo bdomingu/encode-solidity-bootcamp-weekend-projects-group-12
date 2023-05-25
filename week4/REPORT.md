@@ -27,6 +27,12 @@
 - Proposal 4 - Dunkin
 
 ---
-- **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power.**
+**Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power.**
   - > ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
+
+**The user can enter their wallet address and mint tokens.**
+  - > ![02-dApp](./images/02-MintingTokens.png)
+  
+**After the tokens have been succesfully minted, they will receive a succesful transaction hash and message.**
+  - > ![02-dApp](./images/03-AfterMintingTokenBalance.png)
 
