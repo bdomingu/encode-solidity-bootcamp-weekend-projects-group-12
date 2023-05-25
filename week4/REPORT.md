@@ -28,7 +28,7 @@
 
 ---
 **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power.**
-   --![01-dApp](./images/01-BeforeRequestTokenBalance.png)
+  -> ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
 
 **The user can enter their wallet address and mint tokens.**
   - > ![02-dApp](./images/02-MintingTokens.png)
