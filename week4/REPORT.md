@@ -28,18 +28,27 @@
 
 ---
 **Below you can find what the user sees after they have connected their wallet address. They can see their connected address, sepolia balance, they can request tokens, query their balance and their voting power.**
-  -> ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
+  - > ![01-dApp](./images/01-BeforeRequestTokenBalance.png)
 
 **The user can enter their wallet address and mint tokens.**
   - > ![02-dApp](./images/02-MintingTokens.png)
   
 **After the tokens have been succesfully minted, they will receive a succesful transaction hash and message.**
-  - > ![02-dApp](./images/03-AfterMintingTokenBalance.png)
+  - > ![03-dApp](./images/03-AfterMintingTokenBalance.png)
 
-**Now the user can delegate those tokens to their account and get voting power.**
-  - > ![02-dApp](./images/04-DelegatingTokens.png)
+**The user can delegate those minted tokens to their account and get voting power.**
+  - > ![04-dApp](./images/04-DelegatingTokens.png)
   
 **After the tokens have been successfully delegated, they will receive a succesful transaction and message. Now the user has voting power!**
-  - > ![02-dApp](./images/05-DelegateSucceful.png)
+  - > ![05-dApp](./images/05-DelegateSucceful.png)
+
+**Here you can see the results before voting where McDonalds was in the lead.**
+  - > ![06-dApp](./images/06-BeforeVotingResuls.png)
+
+**The user can vote by choosing the proposal number they want to vote for and entering the amount of tokens.**
+  - > ![07-dApp](./images/07-Voting.png)
+
+**You can find the final results below, where Starbucks is still the winner!**
+  - > ![08-dApp](./images/08-AfterVotingResults.png)
 
 
