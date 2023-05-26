@@ -12,6 +12,7 @@
 
 ---
 ### Voting dApp [Link](https://tokenized-ballot-frontend.vercel.app/)
+> The frontend is deployed on vercel and the backend is deployed on heroku.
 
 ### Voting dApp Repository [Github Repo](https://github.com/Encode-Solidity-Bootcamp-Group-12)
 
