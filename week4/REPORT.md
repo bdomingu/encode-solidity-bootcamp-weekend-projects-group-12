@@ -11,6 +11,7 @@
 - Neeraj | innerpeace#5319
 
 ---
+### Voting dApp [Link](https://tokenized-ballot-frontend.vercel.app/)
 
 ### Voting dApp Repository [Github Repo](https://github.com/Encode-Solidity-Bootcamp-Group-12)
 
